@@ -1,0 +1,11 @@
+{
+	"name":"confusion",
+	"version": "1.0.0",
+	"description": "This is a website",
+	"main": "index.html",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		},
+	"author": "Sonali546",
+	"license": "ISC",
+}
